@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Waqas Muhammad!
 
-I am a **Flutter Developer** currently learning **Node.js, MongoDB**. Passionate about building scalable applications and solving complex problems.
+I am a **Flutter Developer** Passionate about building scalable applications and solving complex problems.
 
 ---
 
