@@ -42,7 +42,7 @@ I am a **Flutter Developer** Passionate about building scalable applications and
 
 > "The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design."
 >
-> *- Elon Musk*
+
 
 ---
 
