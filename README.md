@@ -8,6 +8,9 @@
   <a href="https://github.com/IamWaqasMuhammad" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="waqasmuhammad.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-%2300bfff.svg?style=for-the-badge&logo=aboutme&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
