@@ -3,7 +3,7 @@
 ### I'm a passionate **Flutter Developer** focused on building scalable applications and solving complex problems.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving Hand"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Developer working on laptop" />
 </p>
 
 ---
@@ -56,18 +56,6 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
----
-
-## ✨ Featured Projects (Live Demos / GIFs)
-
-<p align="center">
-  <a href="https://github.com/IamWaqasMuhammad/Food-Hub-Flutter-App">
-    <img src="https://media.giphy.com/media/Y3kIaJ1p4k0gHoOfpr/giphy.gif" alt="Food Hub Demo" width="400" />
-  </a>
-  <br />
-  <sub><b>Food Hub</b>: Seamless recipe exploration & local restaurant ordering app built in Flutter.</sub>
 </p>
 
 ---
