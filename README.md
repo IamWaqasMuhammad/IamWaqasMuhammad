@@ -3,7 +3,7 @@
 ### I'm a passionate **Flutter Developer** focused on building scalable applications and solving complex problems.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" alt="Developer working on laptop" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" alt="Professional Developer Working on Laptop" />
 </p>
 
 ---
