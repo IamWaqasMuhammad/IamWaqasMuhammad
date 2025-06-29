@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on scalable Flutter apps and backend integration.
 - 🌱 I’m learning advanced state management & API integration.
-- 💬 Ask me about Flutter, Dart, or app architecture.
+- 💬 Ask me about Flutter, Dart, GetX, API etc
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/waqas-muhammad-0ba609290)
 
 ---
