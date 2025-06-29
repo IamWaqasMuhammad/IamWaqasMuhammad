@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350" alt="Coding on Laptop GIF" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Waqas Muhammad</h1>
-<h3 align="center">Flutter Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Flutter Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/waqas-muhammad-0ba609290" target="_blank">
@@ -33,7 +29,9 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
+
 
 ---
 
@@ -73,5 +71,8 @@
   </a>
   <a href="https://github.com/IamWaqasMuhammad" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="waqasmuhammad.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-%2300bfff.svg?style=for-the-badge&logo=aboutme&logoColor=white" alt="Portfolio" />
   </a>
 </p>
