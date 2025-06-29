@@ -1,9 +1,38 @@
-# 👋 Hi, I'm Waqas Muhammad!
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350" alt="Coding on Laptop GIF" />
+</p>
 
-### I'm a passionate **Flutter Developer** focused on building scalable applications and solving complex problems.
+<h1 align="center">Hi 👋, I'm Waqas Muhammad</h1>
+<h3 align="center">Flutter Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600" alt="Professional person coding on laptop" />
+  <a href="https://www.linkedin.com/in/waqas-muhammad-0ba609290" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/IamWaqasMuhammad" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on scalable Flutter apps and backend integration.
+- 🌱 I’m learning advanced state management & API integration.
+- 💬 Ask me about Flutter, Dart, or app architecture.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/waqas-muhammad-0ba609290)
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
@@ -14,17 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IamWaqasMuhammad&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=IamWaqasMuhammad&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-## 🌟 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamWaqasMuhammad&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -32,37 +53,9 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## ✍️ Inspirational Quote
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IamWaqasMuhammad&theme=radical&margin-w=10" alt="GitHub Achievements" />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=IamWaqasMuhammad&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🚀 Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<div align="center" style="background: linear-gradient(90deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 20px; border-radius: 12px; margin: 30px auto; max-width: 700px; font-style: italic; font-size: 1.1rem;">
+<div align="center" style="background: #1e3c72; background: linear-gradient(90deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 20px; border-radius: 12px; max-width: 600px; margin: auto; font-style: italic;">
   “If you were to rely upon Allah with the reliance He is due, then He would provide for you just as He provides for the birds. They go out in the morning with empty stomachs and return full.”  
   <br/><br/>
   — Prophet Muhammad (ﷺ)  
@@ -72,13 +65,13 @@
 
 ---
 
-## 🌍 Let's Connect
+## 🌍 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/waqas-muhammad-0ba609290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/waqas-muhammad-0ba609290" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/IamWaqasMuhammad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/IamWaqasMuhammad" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
