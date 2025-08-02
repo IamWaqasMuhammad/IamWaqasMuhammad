@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GetX-Flutter%20State%20Management-blueviolet?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX Badge" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -34,6 +35,31 @@
 </p>
 
 ---
+
+## 🚀 Featured Projects
+
+### 📱 Khabar App  
+A sleek and responsive news application delivering top headlines with clean UI and smooth interactions.  
+**🛠 Stack:** Flutter • Dart • Firebase • GetX • Clean Coding • Clean Folder Structure )  
+🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Flutter-Food-Hub-App)
+
+---
+
+### 🧾 NEXT PASS (Internship Project)  
+A smart store & pass generation system for secure entry management during events or visits.  
+**🛠 Stack:** Flutter • Dart • Firebase • GetX • Clean Coding • Clean Folder Structure )  
+🔗 [GitHub Repository](https://github.com/Nitishroy-7033/NEXT-PASS)
+
+---
+
+### 🍔 FoodHub App  
+A complete food ordering and recipe browsing app with backend support and MongoDB integration.  
+**🛠 Stack:** Flutter • Dart • Firebase • Clean Coding • Clean Folder Structure )  
+🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Flutter-Food-Hub-App)
+
+---
+
+
 
 ## 🏆 GitHub Trophies
 
