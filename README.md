@@ -41,7 +41,7 @@
 ### 📱 Khabar App  
 A sleek and responsive news application delivering top headlines with clean UI and smooth interactions.  
 **🛠 Stack:** Flutter • Dart • Firebase • GetX • Clean Coding • Clean Folder Structure )  
-🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Flutter-Food-Hub-App)
+🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Flutter-Khabar-News-App)
 
 ---
 
