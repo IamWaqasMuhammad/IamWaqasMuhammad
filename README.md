@@ -1,4 +1,4 @@
-.....<!-- Typing SVG -->
+....<!-- Typing SVG -->
 <h1 align="center">Hi 👋, I'm Waqas Muhammad</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Firebase+%7C+REST+API+%7C+GetX;Figma+to+Flutter+UI" alt="Typing SVG" />
