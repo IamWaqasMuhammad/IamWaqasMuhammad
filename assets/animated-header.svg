@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Waqas Muhammad - Animated Header">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#00BFFF"/>
+      <stop offset="100%" stop-color="#6A5ACD"/>
+    </linearGradient>
+
+    <linearGradient id="gMove" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00BFFF"/>
+      <stop offset="50%" stop-color="#6A5ACD"/>
+      <stop offset="100%" stop-color="#FF6B6B"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="1;0;1" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
+      <feOffset in="blur" dx="0" dy="6" result="off" />
+      <feMerge>
+        <feMergeNode in="off"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="rgba(255,255,255,0.05)"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#g1)"/>
+  <rect width="1200" height="320" fill="url(#dots)" opacity="0.6"/>
+
+  <g opacity="0.9">
+    <circle cx="80"  cy="240" r="48" fill="url(#gMove)" filter="url(#softShadow)">
+      <animate attributeName="cy" dur="6s" values="260;220;260" repeatCount="indefinite" />
+      <animate attributeName="cx" dur="9s" values="60;100;60" repeatCount="indefinite" />
+      <animate attributeName="r" dur="7s" values="44;52;44" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="1100" cy="80" r="34" fill="rgba(255,255,255,0.12)">
+      <animate attributeName="cy" dur="7s" values="60;100;60" repeatCount="indefinite" />
+      <animate attributeName="cx" dur="10s" values="1080;1120;1080" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="980" cy="220" r="28" fill="rgba(255,255,255,0.08)">
+      <animate attributeName="cy" dur="5s" values="200;240;200" repeatCount="indefinite" />
+      <animate attributeName="cx" dur="11s" values="960;1000;960" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <path d="M0 220 C 200 160 400 280 600 220 C 800 160 1000 280 1200 220 L1200 320 L0 320 Z"
+        fill="white" opacity="0.06">
+    <animate attributeName="d"
+             dur="10s"
+             repeatCount="indefinite"
+             values="
+               M0 220 C 200 160 400 280 600 220 C 800 160 1000 280 1200 220 L1200 320 L0 320 Z;
+               M0 230 C 200 180 400 240 600 230 C 800 220 1000 260 1200 230 L1200 320 L0 320 Z;
+               M0 220 C 200 160 400 280 600 220 C 800 160 1000 280 1200 220 L1200 320 L0 320 Z
+             " />
+  </path>
+
+  <g transform="translate(60,90)">
+    <text x="0" y="0" font-family="Fira Code, monospace" font-size="44" fill="white" font-weight="700">Hi 👋, I'm</text>
+
+    <text x="0" y="60" font-family="Fira Code, monospace" font-size="52" fill="white" font-weight="800">
+      <tspan fill="url(#gMove)">Waqas Muhammad</tspan>
+    </text>
+
+    <text x="0" y="110" font-family="Inter, sans-serif" font-size="18" fill="rgba(255,255,255,0.9)">
+      Flutter Developer • Firebase • GetX • Figma → Flutter
+    </text>
+
+    <rect x="0" y="120" width="0" height="4" fill="white" opacity="0.9">
+      <animate attributeName="width" values="0;360;0" dur="6s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g transform="translate(1020,40) scale(1.2)">
+    <rect x="0" y="0" rx="10" ry="10" width="140" height="140" fill="rgba(255,255,255,0.06)" />
+    <g transform="translate(70,70)">
+      <g transform="translate(-12,-18)">
+        <path d="M-24 0 L -12 -16 L -4 -8" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M36 0 L 24 -16 L 16 -8" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="-22" y="18" width="44" height="6" rx="2" fill="white" opacity="0.95"/>
+      </g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <title>Animated header for Waqas Muhammad — Flutter Developer</title>
+</svg>
