@@ -1,64 +1,74 @@
-<svg viewBox="0 0 1400 260" width="100%" height="260" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%">
-      <stop offset="0%" stop-color="#00E0FF"/>
-      <stop offset="50%" stop-color="#007BFF"/>
-      <stop offset="100%" stop-color="#6A00FF"/>
+    <!-- Gradient for text -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FFFF" />
+      <stop offset="50%" stop-color="#00BFFF" />
+      <stop offset="100%" stop-color="#6A00FF" />
     </linearGradient>
 
+    <!-- Gradient for wave -->
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FFFF" />
+      <stop offset="50%" stop-color="#00BFFF" />
+      <stop offset="100%" stop-color="#6A00FF" />
+    </linearGradient>
+
+    <!-- Wave animation keyframes -->
     <style>
       @keyframes wave {
-        0%   { d: path("M0 160 Q350 80 700 160 T1400 160"); }
-        50%  { d: path("M0 160 Q350 220 700 160 T1400 160"); }
-        100% { d: path("M0 160 Q350 80 700 160 T1400 160"); }
-      }
-
-      @keyframes fadeIn {
-        from { opacity: 0.4; }
-        to   { opacity: 1; }
+        0% { d: path("M0 120 Q200 60 400 120 T800 120 T1200 120"); }
+        50% { d: path("M0 120 Q200 160 400 120 T800 120 T1200 120"); }
+        100% { d: path("M0 120 Q200 60 400 120 T800 120 T1200 120"); }
       }
 
       @keyframes float {
         0% { transform: translateY(0px); }
-        50% { transform: translateY(-8px); }
+        50% { transform: translateY(-10px); }
         100% { transform: translateY(0px); }
       }
 
-      .wave-path {
+      .wave {
         animation: wave 6s ease-in-out infinite;
+      }
+
+      .floating-text {
+        animation: float 3s ease-in-out infinite;
       }
 
       .title {
         font-family: 'Segoe UI', sans-serif;
-        font-size: 50px;
+        font-size: 48px;
         font-weight: 900;
-        fill: url(#grad);
-        animation: float 4s ease-in-out infinite;
+        fill: url(#textGrad);
+        text-anchor: middle;
+        dominant-baseline: middle;
       }
 
       .subtitle {
         font-family: 'Segoe UI', sans-serif;
-        font-size: 26px;
-        fill: #C7D6FF;
-        animation: fadeIn 3s infinite alternate;
+        font-size: 22px;
+        fill: #B5CFFF;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        opacity: 0.8;
+        animation: float 4s ease-in-out infinite alternate;
       }
     </style>
   </defs>
 
   <!-- Background -->
-  <rect width="1400" height="260" fill="#050A1A"/>
+  <rect width="1200" height="220" fill="#050A1A"/>
 
-  <!-- Name -->
-  <text x="50%" y="90" text-anchor="middle" class="title">
-    Waqas Muhammad
+  <!-- Floating main title -->
+  <text x="50%" y="70" class="title floating-text">Waqas Muhammad</text>
+
+  <!-- Subtitle / Skills -->
+  <text x="50%" y="120" class="subtitle floating-text">
+    Flutter Developer • Firebase • REST API • GetX
   </text>
 
-  <!-- Skills -->
-  <text x="50%" y="145" text-anchor="middle" class="subtitle">
-    Flutter Developer • Firebase • REST API • GetX • MongoDB • Node.js
-  </text>
-
-  <!-- Animated Wave -->
-  <path class="wave-path" fill="url(#grad)" opacity="0.7"
-    d="M0 160 Q350 80 700 160 T1400 160 V260 H0 Z" />
+  <!-- Animated wave at bottom -->
+  <path class="wave" fill="url(#waveGrad)" opacity="0.7"
+    d="M0 120 Q200 60 400 120 T800 120 T1200 120 V220 H0 Z" />
 </svg>
