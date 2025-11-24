@@ -49,7 +49,7 @@ Food + recipe app with backend
 
 # 📊 **GitHub Stats (Working Official Link)**
 
-### Source: https://github.com/anuraghazra/github-readme-stats  
+### Source: https://github.com/IamWaqasMuhammad/github-readme-stats  
 > Official recommended URL → `https://github-readme-stats.vercel.app`
 
 <p align="center">
@@ -61,7 +61,7 @@ Food + recipe app with backend
 
 # 🔥 **GitHub Streak (Working Official Link)**
 
-### Source: https://github.com/DenverCoder1/github-readme-streak-stats  
+### Source: https://github.com/IamWaqasMuhammad/github-readme-streak-stats  
 > Official recommended URL → `https://streak-stats.demolab.com`
 
 <p align="center">
