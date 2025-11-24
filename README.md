@@ -65,10 +65,10 @@ A complete food ordering + recipes app with backend integration.
 
 ---
 
-## 📅 Daily Contribution Graph (Auto-updates)
+## 📅 Contribution Graph (Snake Style)
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/IamWaqasMuhammad" alt="Contributions Graph" />
+  <img src="https://raw.githubusercontent.com/IamWaqasMuhammad/IamWaqasMuhammad/master/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" />
 </p>
 
 ---
