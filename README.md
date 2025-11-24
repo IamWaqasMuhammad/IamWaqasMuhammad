@@ -1,12 +1,12 @@
-<!-- Animated Header -->
+<!-- Animated Neon Header -->
 <p align="center">
   <img src="./assets/animated-header.svg" alt="Waqas Muhammad - Header" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Waqas Muhammad</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00FFFF;">Waqas Muhammad</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Firebase+%7C+REST+API+%7C+GetX;Figma+to+Flutter+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Flutter+Developer;Firebase+%7C+REST+API+%7C+GetX;Figma+to+Flutter+UI" />
 </p>
 
 <p align="center">
@@ -23,24 +23,24 @@
 📫 Contact me: **waqasmuhammad5254@gmail.com**  
 ⚡ Fun fact: *I turn coffee into code, and bugs into features* 😂  
 
-🌐 **Portfolio:** https://waqasmuhammad.vercel.app
+🌐 **Portfolio:** [waqasmuhammad.vercel.app](https://waqasmuhammad.vercel.app)
 
 ---
 
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GetX-8E44AD?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC-40C4FF?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0a1f33" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0a1f33" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0a1f33" />
+  <img src="https://img.shields.io/badge/GetX-8E44AD?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0a1f33" />
+  <img src="https://img.shields.io/badge/BLoC-40C4FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0a1f33" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a1f33" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0a1f33" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0a1f33" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0a1f33" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a1f33" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0a1f33" />
 </p>
 
 ---
@@ -49,19 +49,15 @@
 
 ### 📱 **Khabar App**
 A clean & fast Flutter news application.  
-🔗 https://github.com/IamWaqasMuhammad/Flutter-Khabar-News-App
-
----
+🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Flutter-Khabar-News-App)
 
 ### 🧾 **NEXT PASS (Internship Project)**
 A smart pass generation & visitor management system.  
-🔗 https://github.com/Nitishroy-7033/NEXT-PASS
-
----
+🔗 [GitHub Repository](https://github.com/Nitishroy-7033/NEXT-PASS)
 
 ### 🍔 **FoodHub App**
 A complete food ordering + recipes app with backend integration.  
-🔗 https://github.com/IamWaqasMuhammad/Flutter-Food-Hub-App
+🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Flutter-Food-Hub-App)
 
 ---
 
@@ -93,9 +89,9 @@ A complete food ordering + recipes app with backend integration.
 
 ---
 
-## ✍️ Inspirational Quote
+## ✨ Inspirational Quote
 
-<div align="center" style="background: #1e3c72; background: linear-gradient(90deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 20px; border-radius: 12px; max-width: 600px; margin: auto; font-style: italic;">
+<div align="center" style="background: linear-gradient(90deg, #1e3c72 0%, #2a5298 100%); color: #00FFFF; padding: 20px; border-radius: 12px; max-width: 600px; margin: auto; font-style: italic;">
 “If you were to rely upon Allah with the reliance He is due, then He would provide for you just as He provides for the birds. They go out in the morning with empty stomachs and return full.”  
 <br/><br/>
 — Prophet Muhammad (ﷺ)
