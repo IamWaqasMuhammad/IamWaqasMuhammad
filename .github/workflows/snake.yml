@@ -1,0 +1,29 @@
+name: github-contribution-snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Contribution Snake
+        uses: Ileriayo/gh-snake@main
+        with:
+          username: IamWaqasMuhammad
+          color: "00BFFF"      # Snake color
+          background: "050A1A" # Background color
+          animate: true         # Animated snake
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake" || echo "No changes"
+          git push
