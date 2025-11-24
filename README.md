@@ -1,3 +1,4 @@
+
 <!-- Animated Header -->
 <p align="center">
   <img src="./assets/animated-header.svg" width="100%" />
@@ -33,39 +34,45 @@
 # 🚀 **Featured Projects**
 
 ### 📱 **Khabar App**
-News application with clean UI & Firebase integration  
+News application with clean UI & Firebase  
 🔗 https://github.com/IamWaqasMuhammad/Flutter-Khabar-News-App
 
 ### 🧾 **Next Pass**
-Smart pass generation system for events  
+Event pass automation system  
 🔗 https://github.com/Nitishroy-7033/NEXT-PASS
 
 ### 🍔 **FoodHub App**
-Recipe + food ordering system with backend  
+Food + recipe app with backend  
 🔗 https://github.com/IamWaqasMuhammad/Flutter-Food-Hub-App
 
 ---
 
-# 📈 **GitHub Stats (Now Working)**
+# 📊 **GitHub Stats (Working Official Link)**
+
+### Source: https://github.com/anuraghazra/github-readme-stats  
+> Official recommended URL → `https://github-readme-stats.vercel.app`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamWaqasMuhammad&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamWaqasMuhammad&layout=compact&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamWaqasMuhammad&theme=tokyonight&show_icons=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamWaqasMuhammad&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-# 🔥 **GitHub Streak (Auto Updates Daily)**
+# 🔥 **GitHub Streak (Working Official Link)**
+
+### Source: https://github.com/DenverCoder1/github-readme-streak-stats  
+> Official recommended URL → `https://streak-stats.demolab.com`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IamWaqasMuhammad&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=IamWaqasMuhammad&theme=tokyonight" />
 </p>
 
 ---
 
 # 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IamWaqasMuhammad&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IamWaqasMuhammad&theme=algolia&margin-w=10&no-frame=true" />
 </p>
 
 ---
@@ -73,7 +80,7 @@ Recipe + food ordering system with backend
 # ✍️ Inspirational Quote
 
 <div align="center" style="background: #1e3c72; background: linear-gradient(90deg, #1e3c72, #2a5298); color:white; padding:20px; border-radius:12px; max-width:600px;">
-  “If you were to rely upon Allah with the reliance He is due, He would provide for you like He provides for the birds.”
+  “If you rely upon Allah with true reliance, He will provide for you like He provides for the birds.”
   <br/><br/>
   — Prophet Muhammad (ﷺ)
   <br/>
