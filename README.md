@@ -61,15 +61,15 @@ A complete food ordering + recipes app with backend integration.
 
 ---
 
-## 📅 Contribution Graph (Snake Style)
+## 📅 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IamWaqasMuhammad/IamWaqasMuhammad/master/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" />
+  <img src="./github-contribution-snake.svg" alt="Snake Contributions" />
 </p>
 
 ---
 
-## 🔥 Streak Stats (Auto-updates)
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IamWaqasMuhammad&theme=tokyonight&hide_border=true" />
