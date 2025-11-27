@@ -49,7 +49,7 @@
 
 ### 📱 **Khabar App**
 A clean & fast Flutter news application.  
-🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Flutter-Khabar-News-App)
+🔗 [GitHub Repository](https://github.com/iIamWaqasMuhammad/Flutter-Khabar-News-App)
 
 ### 🧾 **NEXT PASS (Internship Project)**
 A smart pass generation & visitor management system.  
