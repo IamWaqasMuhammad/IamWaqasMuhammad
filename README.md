@@ -1,4 +1,4 @@
-<!-- Animated Neon Header -->
+<!-- Animated Neon Header -->..
 <p align="center">
   <img src="./assets/animated-header.svg" alt="Waqas Muhammad - Header" />
 </p>
