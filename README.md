@@ -47,9 +47,9 @@
 
 ## 🏆 Featured Projects
 
-### 📱 **Khabar App**
-A clean & fast Flutter news application.  
-🔗 [GitHub Repository](https://github.com/iIamWaqasMuhammad/Flutter-Khabar-News-App)
+### 📱 **MyExpenses - Smart Expense Tracker App**
+A clean & fast Flutter smart expense tracker app.  
+🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Expense-Tracker-App)
 
 ### 🧾 **NEXT PASS (Internship Project)**
 A smart pass generation & visitor management system.  
