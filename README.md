@@ -47,9 +47,9 @@
 
 ## 🏆 Featured Projects
 
-### 📱 **MyExpenses - Smart Expense Tracker App**
-A clean & fast Flutter smart expense tracker app.  
-🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Expense-Tracker-App)
+### 📱 **WallPaper Downlaoder App**
+A clean & fast Flutter wallpaper donwloader app.  
+🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Wallpaper-Downloader-App)
 
 ### 🧾 **NEXT PASS (Internship Project)**
 A smart pass generation & visitor management system.  
