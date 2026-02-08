@@ -51,6 +51,10 @@
 A clean & fast Flutter wallpaper donwloader app.  
 🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/Wallpaper-Downloader-App)
 
+### 📱 **QR Code Scanner App**
+Scan and generate any type of QR Code.  
+🔗 [GitHub Repository](https://github.com/IamWaqasMuhammad/QR-Code-Scanner-App)
+
 ### 🧾 **NEXT PASS (Internship Project)**
 A smart pass generation & visitor management system.  
 🔗 [GitHub Repository](https://github.com/Nitishroy-7033/NEXT-PASS)
