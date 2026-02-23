@@ -45,7 +45,7 @@ class WaqasMuhammad extends FlutterDeveloper {
 
 ---
 
-## ◈ `~/arsenal`
+## ◈ `~/tech`
 
 <div align="center">
 
