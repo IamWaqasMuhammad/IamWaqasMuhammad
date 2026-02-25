@@ -90,14 +90,14 @@ class WaqasMuhammad extends FlutterDeveloper {
 <tr>
 <td width="50%" valign="top">
 
-### 🎫 NEXT PASS *(Internship)*
+### 🎫 NEXT PASS *(Internship Projrct)*
 > Smart visitor management & digital pass generation system. Streamlines access control with modern workflows.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![BLoC](https://img.shields.io/badge/BLoC-40C4FF?style=flat-square&logo=flutter&logoColor=black)
 
-[![Repo](https://img.shields.io/badge/⬡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitishroy-7033/NEXT-PASS)
+[![Repo](https://img.shields.io/badge/⬡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamWaqasMuhammad/NEXT-PASS)
 
 </td>
 <td width="50%" valign="top">
