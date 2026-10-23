@@ -1,4 +1,4 @@
-<!-- ===================== HEADER / BANNER === ================== -->
+<!-- ===================== HEADER / BANNER ===================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:02569B&height=200&section=header&text=Waqas%20Muhammad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Backend%20%26%20AI%20Explorer&descAlignY=58&descSize=18" alt="Waqas Muhammad banner" />
