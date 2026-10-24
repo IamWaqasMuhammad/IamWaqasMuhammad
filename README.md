@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:02569B&height=200&section=header&text=Waqas%20Muhammad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Backend%20%26%20AI%20Explorer&descAlignY=58&descSize=18" alt="Waqas Muhammad banner" />
 
 <a href="https://github.com/IamWaqasMuhammad">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+scalable+Flutter+apps+%F0%9F%93%B1;Clean+Architecture+%7C+GetX+%7C+Riverpod;Learning+Node.js%2C+MongoDB+%26+AI%2FML+%F0%9F%A4%96;CS+Student+%40+UET+Peshawar+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+scalable+Flutter+apps+%F0%9F%93%B1;Clean+Architecture+%7C+GetX+%7C+Riverpod" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,6 @@
 
 - 📱 Flutter developer focused on **scalable, maintainable mobile apps**
 - 🎓 BSc Computer Science student at **UET Peshawar** (2024–2028)
-- 🌱 Currently learning **AI/ML, Node.js, Express.js & MongoDB**
 - 🔧 Comfortable with **Clean Architecture, MVVM & MVC**
 - 💬 Ask me about **Dart, Flutter, Git/GitHub, Firebase, C++, JS, Java, HTML, CSS**
 - 📫 Reach me at **waqasmuhammad5254@gmail.com**
